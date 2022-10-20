@@ -1,6 +1,6 @@
 ---
 layout: article
-title: About
+title: Unlikely Solution
 permalink: /index.html
 key: index
 aside:
@@ -9,4 +9,4 @@ sidebar:
   nav: docs
 ---
 
-About
+Unlikely solution
