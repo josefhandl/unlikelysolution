@@ -1,0 +1,13 @@
+header:
+
+articles:
+- title: Section 1
+  children:
+  - title: Article 1.1
+    url: /articles/section1/art1.html
+  - title: Article 1.2
+    url: /articles/section1/art2.html
+- title: Section 2
+  children:
+  - title: Article 2.1
+    url: /articles/section2/art1.html
